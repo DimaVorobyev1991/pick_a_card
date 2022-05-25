@@ -12,3 +12,5 @@ suits = ['♦', '♠', '♥ ', '♣']
 puts "Вот ваша карта "
 puts
 puts "#{values.sample} of #{suits.sample}"
+puts 
+puts "Спасибо вам "
